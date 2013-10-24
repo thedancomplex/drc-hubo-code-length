@@ -1,0 +1,99 @@
+[submodule "hubo-view"]
+	path = hubo-view
+	url = https://github.com/hubo/hubo-view
+[submodule "hubo-motion-rt"]
+	path = hubo-motion-rt
+	url = https://github.com/hubo/hubo-motion-rt
+[submodule "hubo_vision_common"]
+	path = hubo_vision_common
+	url = https://github.com/hubo/hubo_vision_common
+[submodule "hubo_head_description"]
+	path = hubo_head_description
+	url = https://github.com/hubo/hubo_head_description
+[submodule "drc-hubo-event-scripts"]
+	path = drc-hubo-event-scripts
+	url = https://github.com/hubo/drc-hubo-event-scripts
+[submodule "hubo_gt_ros"]
+	path = hubo_gt_ros
+	url = https://github.com/hubo/hubo_gt_ros
+[submodule "hubo-ach"]
+	path = hubo-ach
+	url = https://github.com/hubo/hubo-ach
+[submodule "hubo_planning_common"]
+	path = hubo_planning_common
+	url = https://github.com/hubo/hubo_planning_common
+[submodule "hubo_init"]
+	path = hubo_init
+	url = https://github.com/hubo/hubo_init
+[submodule "hubo_motion_ros"]
+	path = hubo_motion_ros
+	url = https://github.com/hubo/hubo_motion_ros
+[submodule "hubomz"]
+	path = hubomz
+	url = https://github.com/hubo/hubomz
+[submodule "hubo_walk"]
+	path = hubo_walk
+	url = https://github.com/hubo/hubo_walk
+[submodule "drc_hubo"]
+	path = drc_hubo
+	url = https://github.com/hubo/drc_hubo
+[submodule "hubo_ros_core"]
+	path = hubo_ros_core
+	url = https://github.com/hubo/hubo_ros_core
+[submodule "hubo_ros_control"]
+	path = hubo_ros_control
+	url = https://github.com/hubo/hubo_ros_control
+[submodule "RobotKin"]
+	path = RobotKin
+	url = https://github.com/hubo/RobotKin
+[submodule "hubo-simple-demo-python"]
+	path = hubo-simple-demo-python
+	url = https://github.com/hubo/hubo-simple-demo-python
+[submodule "hubo-read-trajectory"]
+	path = hubo-read-trajectory
+	url = https://github.com/hubo/hubo-read-trajectory
+[submodule "hubo-ach2"]
+	path = hubo-ach2
+	url = https://github.com/hubo/hubo-ach2
+[submodule "teleop_toolkit"]
+	path = teleop_toolkit
+	url = https://github.com/hubo/teleop_toolkit
+[submodule "localization_tools"]
+	path = localization_tools
+	url = https://github.com/hubo/localization_tools
+[submodule "drchubo"]
+	path = drchubo
+	url = https://github.com/hubo/drchubo
+[submodule "dynamixel_motor"]
+	path = dynamixel_motor
+	url = https://github.com/hubo/dynamixel_motor
+[submodule "joystick_integrator"]
+	path = joystick_integrator
+	url = https://github.com/hubo/joystick_integrator
+[submodule "openHubo"]
+	path = openHubo
+	url = https://github.com/hubo/openHubo
+[submodule "maestro"]
+	path = maestro
+	url = https://github.com/hubo/maestro
+[submodule "drc-hubo-bug-report"]
+	path = drc-hubo-bug-report
+	url = https://github.com/hubo/drc-hubo-bug-report
+[submodule "drc_common"]
+	path = drc_common
+	url = https://github.com/hubo/drc_common
+[submodule "examples-hubo-motion-rt"]
+	path = examples-hubo-motion-rt
+	url = https://github.com/hubo/examples-hubo-motion-rt
+[submodule "Beta-DRC-Hubo"]
+	path = Beta-DRC-Hubo
+	url = https://github.com/hubo/Beta-DRC-Hubo
+[submodule "hubo-ach-ros"]
+	path = hubo-ach-ros
+	url = https://github.com/hubo/hubo-ach-ros
+[submodule "hubo-simple-demo"]
+	path = hubo-simple-demo
+	url = https://github.com/hubo/hubo-simple-demo
+[submodule "hubo-ach-demo"]
+	path = hubo-ach-demo
+	url = https://github.com/hubo/hubo-ach-demo
